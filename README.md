@@ -72,5 +72,5 @@
 ## 📜 Bản quyền & Ghi công
 
 - **Nhân vật & Thương hiệu gốc:** Nhân vật Kirby, âm nhạc và bản quyền thuộc về **HAL Laboratory** & **Nintendo**.
-- **Nguyên tác trò chơi:** Dự án game phi lợi nhuận **Kirby ~ Soft & Wet**.
-- **Đóng gói SillyTavern Extension:** Thực hiện bởi **Khanhhpk** (kiến trúc giao diện lấy cảm hứng từ phong cách tiện ích *SillyTavern-KittyToy*).
+- **Nguyên tác trò chơi:** Dự án game mã nguồn mở phi lợi nhuận [Kirby ~ Soft & Wet](https://github.com/MegaStrimp/Kirby-Soft-and-Wet) bởi tác giả **MegaStrimp**.
+- **Đóng gói SillyTavern Extension:** Thực hiện bởi **Khanhhpk**.
