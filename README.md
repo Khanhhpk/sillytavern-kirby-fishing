@@ -31,7 +31,6 @@
   - Nút **Thu nhỏ (`➖`)**: Ẩn tạm thời, giữ nguyên tiến trình câu cá ngầm.
   - Nút **Đóng (`✕`)**: Yêu cầu **bấm giữ 1 giây** để tránh bấm nhầm. Khi tắt hẳn, game giải phóng 100% bộ nhớ RAM và WebAssembly, đưa mức chiếm dụng CPU về 0%.
 - **Không cướp phím gõ chat:** Game được cách ly an toàn trong iframe, không bao giờ bắt trộm phím khi bạn đang gõ tin nhắn cho nhân vật trong SillyTavern.
-- **Hiệu ứng AI Pulse:** Bóng nổi Kirby sẽ phát sáng nhấp nháy neon rực rỡ mỗi khi AI trong SillyTavern đang suy nghĩ và sinh phản hồi!
 
 ---
 

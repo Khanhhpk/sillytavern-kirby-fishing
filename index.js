@@ -731,22 +731,10 @@
    * Extension Initialization
    */
   function init() {
-    console.log(`[${EXT_ID}] Initializing Kirby Fishing Extension (KittyToy-Style)...`);
+    console.log(`[${EXT_ID}] Initializing Kirby Fishing Extension...`);
     loadSettings();
     createWindowDOM();
     createFloatingActionBubble();
-
-    // Listen for SillyTavern AI generation events
-    try {
-      if (window.eventSource && window.event_types) {
-        window.eventSource.on(window.event_types.GENERATE_BEFORE_COMBINE_PROMPTS, () => {
-          if (fabEl) fabEl.classList.add("ai-active");
-        });
-        window.eventSource.on(window.event_types.CHARACTER_MESSAGE_RENDERED, () => {
-          if (fabEl) fabEl.classList.remove("ai-active");
-        });
-      }
-    } catch (_e) {}
 
     console.log(`[${EXT_ID}] Kirby Fishing Extension loaded successfully.`);
   }
