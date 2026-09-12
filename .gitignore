@@ -1,0 +1,14 @@
+# Local test & development files
+server.js
+test_harness.html
+node_modules/
+*.log
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor & IDE directories
+.vscode/
+.idea/

@@ -1,0 +1,11 @@
+{
+  "display_name": "Kirby Fishing Side Game",
+  "loading_order": 100,
+  "requires": [],
+  "optional": [],
+  "css": "style.css",
+  "js": "index.js",
+  "author": "Khanhhpk",
+  "version": "1.0.0",
+  "description": "Play Kirby ~ Soft & Wet fishing minigame with over 1,000 fish in a customizable, draggable, floating window directly inside SillyTavern."
+}
